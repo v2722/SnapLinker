@@ -2,5 +2,5 @@
 
 ->URL Shortener
 
-->tech-stack used: HTML,CSS,Node.js,JS,MySQL
+->tech-stack used: HTML,CSS,Express.js,JS,MySQL
 
